@@ -9,3 +9,4 @@ public class MainPosta {
         sportelloThread.start();
     }
 }
+
